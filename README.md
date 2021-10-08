@@ -1,7 +1,5 @@
-# Overview
-Korean *(elementary?)* school student, loves working on games and mods.
+### Korean *(elementary?)* school student, loves working on games and mods.
 
-# Status
 <details>
   <summary>Recent Project</summary>
   
