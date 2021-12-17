@@ -1,4 +1,4 @@
-### <img src = "mindy2.png" width="50" height="50"> Korean *(elementary?)* school student, loves working on games and mods.
+### <img src = "mindy2.png" width="50" height="50"> Korean school student, loves working on games and mods.
 
 <details>
   <summary>Recent Project</summary>
