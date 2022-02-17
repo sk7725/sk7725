@@ -1,9 +1,10 @@
 ### <img src = "mindy2.png" width="50" height="50"> Korean school student, loves working on games and mods.
 
 <details>
-  <summary>Recent Project</summary>
+  <summary>Recent Project(s)</summary>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sk7725&repo=BetaMindy)](https://github.com/sk7725/BetaMindy)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AvantTeam&repo=MochiRun)](https://github.com/AvantTeam/MochiRun)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AvantTeam&repo=ProjectUnityPublic)](https://github.com/AvantTeam/ProjectUnityPublic)
 </details>
 
 <details>
