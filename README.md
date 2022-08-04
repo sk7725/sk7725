@@ -4,7 +4,8 @@
   <summary>Recent Project(s)</summary>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AvantTeam&repo=MochiRun)](https://github.com/AvantTeam/MochiRun)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AvantTeam&repo=ProjectUnityPublic)](https://github.com/AvantTeam/ProjectUnityPublic)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sk7725&repo=PrinsessSaver)](https://github.com/sk7725/PrinsessSaver)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sk7725&repo=Platonico)](https://github.com/sk7725/Platonico)
 </details>
 
 <details>
