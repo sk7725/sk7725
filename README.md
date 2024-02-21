@@ -12,4 +12,5 @@
   
   ![Github Stats](https://github-readme-stats-sk.vercel.app/api?username=sk7725&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&title_color=ffaaff&text_color=77ddff)
   ![Top Languages](https://github-readme-stats-sk.vercel.app/api/top-langs/?username=sk7725&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&langs_count=4&layout=compact&title_color=ffaaff&text_color=77ddff)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=sk7725&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
